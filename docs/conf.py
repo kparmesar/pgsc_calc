@@ -34,7 +34,8 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx-jsonschema'
+    'sphinx-jsonschema',
+    'sphinxemoji.sphinxemoji',
 ]
 
 nitpicky = True
